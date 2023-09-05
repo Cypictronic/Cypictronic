@@ -8,10 +8,7 @@
 
 </br>
 
-# Simón Vitriago!
-## Desarrollador Movil
-
-## Tecnologías:
+# Tecnologías:
  * Flutter
  * C#
  * Python
